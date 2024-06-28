@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.FavoriteMovie, .PersonalInformation, .Pet {
+  border-bottom: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.poster img, .pet-photo img{
+  width: 300px;
+  height: auto;
+  margin: 10px;
+}
